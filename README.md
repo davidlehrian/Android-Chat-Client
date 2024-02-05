@@ -7,3 +7,4 @@ This project was created mainly for me to learn how to communicate with an ESP32
 2. Open it with Android Studio.
 3. Make sure you have the [ESP32 Chat Server](https://github.com/davidlehrian/ESP32-Chat-Server) already running.
 4. Launch the app.
+5. Text typed on the input line will be sent to the server and will show up on the screen of every other Chat Client.
